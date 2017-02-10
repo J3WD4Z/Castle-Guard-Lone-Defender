@@ -1,0 +1,263 @@
+﻿Log file open, 02/09/17 13:22:54
+LogInit:Display: Running engine for game: CastleGuardGreyBlock
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(-1331736179) SRandInit(-1331736179).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.068811
+LogPluginManager: Loaded Plugin Paper2D, From I:/Epic Games/4.13/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From I:/Epic Games/4.13/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From I:/Epic Games/4.13/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From I:/Epic Games/4.13/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From I:/Epic Games/4.13/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From I:/Epic Games/4.13/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From I:/Epic Games/4.13/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From I:/Epic Games/4.13/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From I:/Epic Games/4.13/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From I:/Epic Games/4.13/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From I:/Epic Games/4.13/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From I:/Epic Games/4.13/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From I:/Epic Games/4.13/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From I:/Epic Games/4.13/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From I:/Epic Games/4.13/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From I:/Epic Games/4.13/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From I:/Epic Games/4.13/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From I:/Epic Games/4.13/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From I:/Epic Games/4.13/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From I:/Epic Games/4.13/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From I:/Epic Games/4.13/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From I:/Epic Games/4.13/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From I:/Epic Games/4.13/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From I:/Epic Games/4.13/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From I:/Epic Games/4.13/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin LiveEditor, From I:/Epic Games/4.13/Engine/Plugins/Experimental/LiveEditor/LiveEditor.uplugin
+LogPluginManager: Loaded Plugin OSVR, From I:/Epic Games/4.13/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From I:/Epic Games/4.13/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From I:/Epic Games/4.13/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From I:/Epic Games/4.13/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From I:/Epic Games/4.13/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From I:/Epic Games/4.13/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin GestureTrackerVR, From I:/Epic Games/4.13/Engine/Plugins/Marketplace/GestureTrackerVR/GestureTrackerVR.uplugin
+LogPluginManager: Loaded Plugin RunebergVRPlugin, From I:/Epic Games/4.13/Engine/Plugins/Marketplace/RunebergVRPlugin/RunebergVRPlugin.uplugin
+LogPluginManager: Loaded Plugin ShadowMocap, From I:/Epic Games/4.13/Engine/Plugins/Marketplace/ShadowMocap/ShadowMocap.uplugin
+LogPluginManager: Loaded Plugin Substance, From I:/Epic Games/4.13/Engine/Plugins/Marketplace/Substance/Substance.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From I:/Epic Games/4.13/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From I:/Epic Games/4.13/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From I:/Epic Games/4.13/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From I:/Epic Games/4.13/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From I:/Epic Games/4.13/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From I:/Epic Games/4.13/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From I:/Epic Games/4.13/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From I:/Epic Games/4.13/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From I:/Epic Games/4.13/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From I:/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From I:/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From I:/Epic Games/4.13/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From I:/Epic Games/4.13/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From I:/Epic Games/4.13/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From I:/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From I:/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From I:/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From I:/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From I:/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From I:/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From I:/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From I:/Epic Games/4.13/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From I:/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From I:/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From I:/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From I:/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From I:/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From I:/Epic Games/4.13/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From I:/Epic Games/4.13/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From I:/Epic Games/4.13/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From I:/Epic Games/4.13/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From I:/Epic Games/4.13/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From I:/Epic Games/4.13/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From I:/Epic Games/4.13/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From I:/Epic Games/4.13/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From I:/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From I:/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From I:/Epic Games/4.13/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From I:/Epic Games/4.13/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From I:/Epic Games/4.13/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LiveEditorListenServer, From I:/Epic Games/4.13/Engine/Plugins/Runtime/LiveEditorListenServer/LiveEditorListenServer.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From I:/Epic Games/4.13/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From I:/Epic Games/4.13/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From I:/Epic Games/4.13/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From I:/Epic Games/4.13/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From I:/Epic Games/4.13/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From I:/Epic Games/4.13/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From I:/Epic Games/4.13/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From I:/Epic Games/4.13/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From I:/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From I:/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From I:/Epic Games/4.13/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From I:/Epic Games/4.13/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From I:/Epic Games/4.13/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From I:/Epic Games/4.13/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From I:/Epic Games/4.13/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with WinSSL
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.13-CL-3172292
+LogInit: Engine Version: 4.13.2-3172292+++UE4+Release-4.13
+LogInit: Compatible Engine Version: 4.13.0-3106830+++UE4+Release-4.13
+LogInit: Net CL: 3172292
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 5
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 6
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 12
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 4
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 0
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Oct 24 2016 14:29:06
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.13
+LogInit: Command line: 
+LogInit: Base directory: I:/Epic Games/4.13/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.02.09-21.22.54:323][  0]LogInit: Selected Device Profile: [Windows]
+[2017.02.09-21.22.54:323][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.02.09-21.22.54:330][  0]LogInit: Computer: WIZARD-PC
+[2017.02.09-21.22.54:330][  0]LogInit: User: Wizard
+[2017.02.09-21.22.54:330][  0]LogInit: CPU Page size=65536, Cores=4
+[2017.02.09-21.22.54:330][  0]LogInit: High frequency timer resolution =3.320341 MHz
+[2017.02.09-21.22.54:331][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2017.02.09-21.22.54:331][  0]LogMemory: Platform Memory Stats for Windows
+[2017.02.09-21.22.54:331][  0]LogMemory: Process Physical Memory: 256.92 MB used, 256.92 MB peak
+[2017.02.09-21.22.54:331][  0]LogMemory: Process Virtual Memory: 261.63 MB used, 261.63 MB peak
+[2017.02.09-21.22.54:331][  0]LogMemory: Physical Memory: 4713.34 MB used, 16327.92 MB total
+[2017.02.09-21.22.54:331][  0]LogMemory: Virtual Memory: 592.32 MB used, 8388608.00 MB total
+[2017.02.09-21.22.54:365][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2017.02.09-21.22.54:961][  0]LogD3D11RHI: D3D11 adapters:
+[2017.02.09-21.22.54:970][  0]LogD3D11RHI:    0. 'AMD Radeon HD 7900 Series' (Feature Level 11_0)
+[2017.02.09-21.22.54:970][  0]LogD3D11RHI:       3050/0/3840 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2017.02.09-21.22.54:970][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.02.09-21.22.54:974][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.02.09-21.22.54:974][  0]LogD3D11RHI:     GPU DeviceId: 0x679a (for the marketing name, search the web for "GPU Device Id")
+[2017.02.09-21.22.54:974][  0]LogWindows: EnumDisplayDevices:
+[2017.02.09-21.22.54:974][  0]LogWindows:    0. 'AMD Radeon HD 7900 Series' (P:1 D:1)
+[2017.02.09-21.22.54:975][  0]LogWindows:    1. 'AMD Radeon HD 7900 Series' (P:0 D:0)
+[2017.02.09-21.22.54:975][  0]LogWindows:    2. 'AMD Radeon HD 7900 Series' (P:0 D:0)
+[2017.02.09-21.22.54:975][  0]LogWindows:    3. 'AMD Radeon HD 7900 Series' (P:0 D:0)
+[2017.02.09-21.22.54:976][  0]LogWindows:    4. 'AMD Radeon HD 7900 Series' (P:0 D:0)
+[2017.02.09-21.22.54:976][  0]LogWindows:    5. 'AMD Radeon HD 7900 Series' (P:0 D:0)
+[2017.02.09-21.22.54:976][  0]LogWindows:    6. 'RDPDD Chained DD' (P:0 D:0)
+[2017.02.09-21.22.54:976][  0]LogWindows:    7. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2017.02.09-21.22.54:977][  0]LogWindows:    8. 'RDP Reflector Display Driver' (P:0 D:0)
+[2017.02.09-21.22.54:977][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:6 
+[2017.02.09-21.22.54:977][  0]LogD3D11RHI:     Adapter Name: AMD Radeon HD 7900 Series
+[2017.02.09-21.22.54:977][  0]LogD3D11RHI:   Driver Version: Crimson ReLive 16.12.1 (internal:21.19.384.0, unified:21.19.384.0)
+[2017.02.09-21.22.54:977][  0]LogD3D11RHI:      Driver Date: 12-4-2016
+[2017.02.09-21.22.54:977][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.02.09-21.22.54:984][  0]LogD3D11RHI: Async texture creation enabled
+[2017.02.09-21.22.54:994][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2017.02.09-21.22.54:994][  0]LogShaderCompilers: Guid format shader working directory is -14 characters bigger than the processId version (C:/Users/Wizard/Documents/Unreal Projects/CastleGuardGreyBlock/Intermediate/Shaders/WorkingDirectory/448/).
+[2017.02.09-21.22.54:994][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Wizard/AppData/Local/Temp/UnrealShaderWorkingDir/15F2C56A4613F11DE9021E97E0AF9709/'.
+[2017.02.09-21.22.54:994][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.02.09-21.22.56:007][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.02.09-21.22.56:015][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.02.09-21.22.56:023][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.02.09-21.22.56:031][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.02.09-21.22.56:038][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.02.09-21.22.56:045][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.02.09-21.22.56:051][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.02.09-21.22.56:058][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.02.09-21.22.56:064][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.02.09-21.22.56:070][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.02.09-21.22.56:077][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.02.09-21.22.56:090][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.02.09-21.22.56:090][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.02.09-21.22.56:090][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.02.09-21.22.56:109][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.02.09-21.22.56:115][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.02.09-21.22.56:121][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.02.09-21.22.56:128][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.02.09-21.22.56:136][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.02.09-21.22.56:142][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.02.09-21.22.56:142][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.02.09-21.22.56:212][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.02.09-21.22.56:276][  0]LogDerivedDataCache: Loaded boot cache 0.06s 64MB C:/Users/Wizard/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2017.02.09-21.22.56:276][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Wizard/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc
+[2017.02.09-21.22.56:276][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Wizard/Documents/Unreal Projects/CastleGuardGreyBlock/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.02.09-21.22.56:276][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.02.09-21.22.56:276][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Wizard/Documents/Unreal Projects/CastleGuardGreyBlock/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.02.09-21.22.56:276][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.02.09-21.22.56:294][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.02.09-21.22.56:305][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Wizard/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.02.09-21.22.56:525][  0]LogInit: Selected Device Profile: [Windows]
+[2017.02.09-21.22.56:529][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.02.09-21.22.56:530][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.02.09-21.22.56:671][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2017.02.09-21.22.56:671][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.02.09-21.22.56:671][  0]LogMeshUtilities: No distributed automatic mesh merging module available
+[2017.02.09-21.22.56:993][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3106830, ProjectName: castleguardgreyblock, ProjectVersion: , EngineNetworkVersion: 1, GameNetworkVersion: 0, NetworkChecksum: 1674171190
+[2017.02.09-21.22.57:029][  0]LogAssetRegistry: FAssetRegistry took 0.0202 seconds to start up
+[2017.02.09-21.22.57:031][  0]LogDirectoryWatcher:Warning: Failed to begin reading directory changes for ../../../Engine/Plugins/Marketplace/RunebergVRPlugin/Content/. Error: The system cannot find the file specified. (0x00000002)
+[2017.02.09-21.22.57:062][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.030067 seconds
+[2017.02.09-21.22.57:066][  0]LogUObjectArray: 29778 objects as part of root set at end of initial load.
+[2017.02.09-21.22.57:066][  0]LogUObjectAllocator: 6125456 out of 0 bytes used by permanent object pool.
+[2017.02.09-21.22.57:066][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.02.09-21.22.57:071][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.02.09-21.22.57:265][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.02.09-21.22.57:265][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.02.09-21.22.57:987][  0]LogSubstanceCoreModule: Substance CPU Engine Loaded, Max Texture Size 2048
+[2017.02.09-21.22.57:998][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.02.09-21.22.58:018][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.02.09-21.22.58:281][  0]SourceControl: Info Source control is disabled
+[2017.02.09-21.22.58:282][  0]SourceControl: Info Source control is disabled
+[2017.02.09-21.22.58:291][  0]SourceControl: Info Source control is disabled
+[2017.02.09-21.22.58:300][  0]SourceControl: Info Source control is disabled
+[2017.02.09-21.22.58:654][  0]LogEngine: Initializing Engine...
+[2017.02.09-21.22.58:655][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.02.09-21.22.58:793][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.02.09-21.22.58:809][  0]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.02.09-21.22.58:849][  0]LogInit: FAudioDevice initialized.
+[2017.02.09-21.22.58:879][  0]LogDerivedDataCache: Saved boot cache 0.03s 64MB C:/Users/Wizard/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2017.02.09-21.22.58:888][  0]LogInit: Texture streaming: Enabled
+[2017.02.09-21.22.58:910][  0]LogInit: Transaction tracking system initialized
+[2017.02.09-21.22.58:928][  0]BlueprintLog: New page: Editor Load
+[2017.02.09-21.22.58:993][  0]LocalizationService: Info Localization service is disabled
+[2017.02.09-21.22.59:063][  0]LogConsoleResponse:Display: 
+[2017.02.09-21.22.59:182][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.02.09-21.22.59:182][  0]LogCook:Display: Mobile HDR setting 1
+[2017.02.09-21.22.59:324][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Wizard/Documents/Unreal Projects/CastleGuardGreyBlock/Content/' took 0.01s
+[2017.02.09-21.22.59:331][  0]SourceControl: Info Source control is disabled
+[2017.02.09-21.22.59:331][  0]Cmd: MAP LOAD FILE="C:/Users/Wizard/Documents/Unreal Projects/CastleGuardGreyBlock/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.02.09-21.22.59:332][  0]LightingResults: New page: Lighting Build
+[2017.02.09-21.22.59:334][  0]MapCheck: New page: Map Check
+[2017.02.09-21.22.59:334][  0]LightingResults: New page: Lighting Build
+[2017.02.09-21.22.59:976][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2017.02.09-21.22.59:986][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.02.09-21.22.59:987][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.02.09-21.23.00:042][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 55.17ms to complete.
+[2017.02.09-21.23.00:042][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.711
+[2017.02.09-21.23.00:183][  0]LogCollectionManager: Loaded 0 collections in 0.001775 seconds
+[2017.02.09-21.23.00:219][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Wizard/Documents/Unreal Projects/CastleGuardGreyBlock/Saved/Collections/' took 0.01s
+[2017.02.09-21.23.00:219][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Wizard/Documents/Unreal Projects/CastleGuardGreyBlock/Content/Developers/Wizard/Collections/' took 0.01s
+[2017.02.09-21.23.00:219][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Wizard/Documents/Unreal Projects/CastleGuardGreyBlock/Content/Collections/' took 0.01s
+[2017.02.09-21.23.00:219][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2017.02.09-21.23.00:228][  0]LogContentBrowser: Native class hierarchy populated in 0.0091 seconds. Added 2164 classes and 432 folders.
+[2017.02.09-21.23.00:232][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.02.09-21.23.00
