@@ -1,0 +1,10 @@
+Choi's notes to self 
+
+- Open Level Motion Controller Map
+
+- Check to see if SteamVR is working
+
+- Multiple Select: Ctrl + Alt + LMB
+
+- Firing System: put hand to center of bow, press trigger to spawn arrow, then draw and release trigger to fire arrow.
+
