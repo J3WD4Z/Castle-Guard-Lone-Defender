@@ -1,0 +1,478 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	deleted:    CastleGuardGreyBlock 4.13/CastleGuardGreyBlock.uproject
+#	deleted:    CastleGuardGreyBlock 4.13/CastleReferenceImages/Castle01.jpg
+#	deleted:    CastleGuardGreyBlock 4.13/CastleReferenceImages/Castle02.jpg
+#	deleted:    CastleGuardGreyBlock 4.13/CastleReferenceImages/Castle03.jpg
+#	deleted:    CastleGuardGreyBlock 4.13/CastleReferenceImages/Castle04.jpg
+#	deleted:    CastleGuardGreyBlock 4.13/CastleReferenceImages/Castle05.jpg
+#	deleted:    CastleGuardGreyBlock 4.13/CastleReferenceImages/Castle06.jpg
+#	deleted:    CastleGuardGreyBlock 4.13/CastleReferenceImages/Castle07.jpg
+#	deleted:    CastleGuardGreyBlock 4.13/Config/DefaultEditor.ini
+#	deleted:    CastleGuardGreyBlock 4.13/Config/DefaultEditorPerProjectUserSettings.ini
+#	deleted:    CastleGuardGreyBlock 4.13/Config/DefaultEngine.ini
+#	deleted:    CastleGuardGreyBlock 4.13/Config/DefaultGame.ini
+#	deleted:    CastleGuardGreyBlock 4.13/Config/DefaultInput.ini
+#	deleted:    CastleGuardGreyBlock 4.13/Content/FirstPerson/Animations/FirstPersonFire_Montage.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/FirstPerson/Animations/FirstPerson_Fire.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/FirstPerson/Animations/FirstPerson_Idle.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/FirstPerson/Animations/FirstPerson_JumpEnd.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/FirstPerson/Animations/FirstPerson_JumpLoop.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/FirstPerson/Animations/FirstPerson_JumpStart.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/FirstPerson/Animations/FirstPerson_Run.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/FirstPerson/Character/Mesh/FirstPersonAnimBlueprint_Copy.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/FirstPerson/FPWeapon/Materials/M_FPGun.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/FirstPerson/FPWeapon/Textures/T_FPGun_M.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/FirstPerson/FPWeapon/Textures/T_FPGun_N.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/FirstPerson/Meshes/BaseMaterial.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/FirstPerson/Meshes/CubeMaterialOverride.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/FirstPerson/Meshes/FirstPersonProjectileMaterial.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/FirstPerson/Textures/FirstPersonCrosshair.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/FirstPersonBP/FirstPersonOverview.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/FirstPersonBP/Maps/CastleGuardLevelSave01.umap
+#	deleted:    CastleGuardGreyBlock 4.13/Content/FirstPersonBP/Maps/CastleGuardLevelSave02.umap
+#	deleted:    CastleGuardGreyBlock 4.13/Content/FirstPersonBP/Maps/CastleGuardLevelSave03.umap
+#	deleted:    CastleGuardGreyBlock 4.13/Content/FirstPersonBP/Maps/CastleGuardLevelSave04.umap
+#	deleted:    CastleGuardGreyBlock 4.13/Content/Geometry/Meshes/1M_Cube.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/Geometry/Meshes/CubeMaterial.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/Geometry/Meshes/TemplateFloor.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/Mannequin/Animations/ThirdPersonIdle.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/Mannequin/Animations/ThirdPersonJump_End.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/Mannequin/Animations/ThirdPersonRun.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/Mannequin/Animations/ThirdPersonWalk.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/Mannequin/Animations/ThirdPerson_Jump.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Architecture/Pillar_50x500.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Architecture/SM_AssetPlatform.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Architecture/Wall_400x200.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Architecture/Wall_400x300.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Architecture/Wall_400x400.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Architecture/Wall_500x500.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Architecture/Wall_Door_400x300.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Architecture/Wall_Door_400x400.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Architecture/Wall_Window_400x300.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Architecture/Wall_Window_400x400.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Audio/Collapse01.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Audio/Collapse02.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Audio/Collapse_Cue.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Audio/Explosion01.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Audio/Explosion02.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Audio/Explosion_Cue.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Audio/Fire01.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Audio/Fire01_Cue.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Audio/Fire_Sparks01.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Audio/Light01.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Audio/Light01_Cue.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Audio/Light02.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Audio/Light02_Cue.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Audio/Smoke01.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Audio/Smoke01_Cue.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Audio/Starter_Background_Cue.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Audio/Starter_Birds01.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Audio/Starter_Music01.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Audio/Starter_Music_Cue.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Audio/Starter_Wind05.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Audio/Starter_Wind06.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Audio/Steam01.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Audio/Steam01_Cue.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Blueprints/Assets/Skybox.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Blueprints/BP_LightStudio.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Maps/Advanced_Lighting.umap
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Maps/Minimal_Default.umap
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Maps/StarterMap.umap
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Materials/M_AssetPlatform.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Materials/M_Basic_Floor.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Materials/M_Basic_Wall.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Materials/M_Brick_Clay_New.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Materials/M_Concrete_Grime.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Materials/M_Concrete_Panels.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Materials/M_Concrete_Poured.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Materials/M_Concrete_Tiles.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Materials/M_Glass.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Materials/M_Ground_Grass.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Materials/M_Ground_Gravel.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Materials/M_Ground_Moss.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Materials/M_Metal_Chrome.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Materials/M_Metal_Copper.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Materials/M_Metal_Gold.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Materials/M_Metal_Rust.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Materials/M_Metal_Steel.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Materials/M_Rock_Basalt.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Materials/M_Rock_Sandstone.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Materials/M_Rock_Slate.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Materials/M_Tech_Panel.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Materials/M_Water_Lake.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Materials/M_Water_Ocean.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Materials/M_Wood_Oak.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Materials/M_Wood_Pine.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Materials/M_Wood_Walnut.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Particles/Materials/M_Burst.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Particles/Materials/M_Spark.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Particles/Materials/m_flare_01.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Particles/P_Ambient_Dust.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Particles/P_Explosion.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Particles/P_Fire.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Particles/P_Smoke.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Particles/P_Sparks.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Particles/P_Steam_Lit.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Props/MaterialSphere.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Props/Materials/M_Bush.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Props/Materials/M_Chair.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Props/Materials/M_Door.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Props/Materials/M_Frame.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Props/Materials/M_Lamp.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Props/Materials/M_Rock.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Props/Materials/M_Shelf.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Props/Materials/M_Statue.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Props/Materials/M_StatueGlass.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Props/Materials/M_TableRound.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Props/SM_Bush.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Props/SM_Chair.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Props/SM_CornerFrame.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Props/SM_Couch.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Props/SM_Door.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Props/SM_DoorFrame.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Props/SM_GlassWindow.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Props/SM_Lamp_Wall.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Props/SM_PillarFrame.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Props/SM_PillarFrame300.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Props/SM_Rock.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Props/SM_Shelf.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Props/SM_Stairs.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Props/SM_Statue.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Props/SM_TableRound.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Props/SM_WindowFrame.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Shapes/Shape_Cone.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Shapes/Shape_Cube.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Shapes/Shape_Cylinder.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Shapes/Shape_Pipe.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Shapes/Shape_Pipe_180.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Shapes/Shape_Pipe_90.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Shapes/Shape_Plane.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Shapes/Shape_Sphere.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Shapes/Shape_Torus.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Shapes/Shape_TriPyramid.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Shapes/Shape_Trim.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Shapes/Shape_Tube.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Shapes/Shape_Wedge_A.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Shapes/Shape_Wedge_B.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Shapes/Shape_WideCapsule.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Burst_M.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Bush_D.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Bush_N.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Chair_M.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Chair_N.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Checker_Noise_M.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Door_M.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Door_N.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Dust_Particle_D.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Explosion_SubUV.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Fire_SubUV.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Frame_M.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Frame_N.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Gradinet_01.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Ground_Grass_D.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Ground_Grass_N.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Ground_Moss_N.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Lamp_M.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Lamp_N.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_MacroVariation.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Metal_Copper_D.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Metal_Gold_D.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Metal_Gold_N.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Metal_Rust_D.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Metal_Rust_N.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Metal_Steel_D.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Metal_Steel_N.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_RockMesh_M.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_RockMesh_N.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Rock_Slate_D.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Rock_Slate_N.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Shelf_M.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Shelf_N.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Single_Tile_N.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Smoke_SubUV.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Spark_Core.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Statue_M.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Statue_N.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_TableRound_M.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_TableRound_N.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Tech_Dot_M.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Tech_Dot_N.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Tech_Panel_M.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Tech_Panel_N.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Water_M.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Water_N.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Wood_Oak_D.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Wood_Oak_N.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Wood_Pine_D.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Wood_Pine_N.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Content/StarterContent/Textures/T_ground_Moss_D.uasset
+#	deleted:    CastleGuardGreyBlock 4.13/Intermediate/AssetRegistryCache/1d5167fa.bin
+#	deleted:    CastleGuardGreyBlock 4.13/Intermediate/AssetRegistryCache/2657c409.bin
+#	deleted:    CastleGuardGreyBlock 4.13/Intermediate/AssetRegistryCache/2c1c0bcb.bin
+#	deleted:    CastleGuardGreyBlock 4.13/Intermediate/AssetRegistryCache/53e20be5.bin
+#	deleted:    CastleGuardGreyBlock 4.13/Intermediate/AssetRegistryCache/5a627529.bin
+#	deleted:    CastleGuardGreyBlock 4.13/Intermediate/AssetRegistryCache/866581fd.bin
+#	deleted:    CastleGuardGreyBlock 4.13/Intermediate/AssetRegistryCache/8c0e1344.bin
+#	deleted:    CastleGuardGreyBlock 4.13/Intermediate/AssetRegistryCache/917c288f.bin
+#	deleted:    CastleGuardGreyBlock 4.13/Intermediate/AssetRegistryCache/94c5d5a7.bin
+#	deleted:    CastleGuardGreyBlock 4.13/Intermediate/AssetRegistryCache/fea5bb31.bin
+#	deleted:    CastleGuardGreyBlock 4.13/Intermediate/Config/CoalescedSourceConfigs/Compat.ini
+#	deleted:    CastleGuardGreyBlock 4.13/Intermediate/Config/CoalescedSourceConfigs/DeviceProfiles.ini
+#	deleted:    CastleGuardGreyBlock 4.13/Intermediate/Config/CoalescedSourceConfigs/Editor.ini
+#	deleted:    CastleGuardGreyBlock 4.13/Intermediate/Config/CoalescedSourceConfigs/EditorKeyBindings.ini
+#	deleted:    CastleGuardGreyBlock 4.13/Intermediate/Config/CoalescedSourceConfigs/EditorLayout.ini
+#	deleted:    CastleGuardGreyBlock 4.13/Intermediate/Config/CoalescedSourceConfigs/EditorPerProjectUserSettings.ini
+#	deleted:    CastleGuardGreyBlock 4.13/Intermediate/Config/CoalescedSourceConfigs/EditorSettings.ini
+#	deleted:    CastleGuardGreyBlock 4.13/Intermediate/Config/CoalescedSourceConfigs/EditorUserSettings.ini
+#	deleted:    CastleGuardGreyBlock 4.13/Intermediate/Config/CoalescedSourceConfigs/Engine.ini
+#	deleted:    CastleGuardGreyBlock 4.13/Intermediate/Config/CoalescedSourceConfigs/Game.ini
+#	deleted:    CastleGuardGreyBlock 4.13/Intermediate/Config/CoalescedSourceConfigs/GameUserSettings.ini
+#	deleted:    CastleGuardGreyBlock 4.13/Intermediate/Config/CoalescedSourceConfigs/GameplayTags.ini
+#	deleted:    CastleGuardGreyBlock 4.13/Intermediate/Config/CoalescedSourceConfigs/Hardware.ini
+#	deleted:    CastleGuardGreyBlock 4.13/Intermediate/Config/CoalescedSourceConfigs/Input.ini
+#	deleted:    CastleGuardGreyBlock 4.13/Intermediate/Config/CoalescedSourceConfigs/InternationalizationExport.ini
+#	deleted:    CastleGuardGreyBlock 4.13/Intermediate/Config/CoalescedSourceConfigs/Lightmass.ini
+#	deleted:    CastleGuardGreyBlock 4.13/Intermediate/Config/CoalescedSourceConfigs/LocalizationServiceSettings.ini
+#	deleted:    CastleGuardGreyBlock 4.13/Intermediate/Config/CoalescedSourceConfigs/Scalability.ini
+#	deleted:    CastleGuardGreyBlock 4.13/Intermediate/Config/CoalescedSourceConfigs/SourceControlSettings.ini
+#	deleted:    CastleGuardGreyBlock 4.13/Intermediate/Config/CoalescedSourceConfigs/TemplateDefs.ini
+#	deleted:    CastleGuardGreyBlock 4.13/Intermediate/Config/CoalescedSourceConfigs/TranslationPickerSettings.ini
+#	deleted:    CastleGuardGreyBlock 4.13/Intermediate/ReimportCache/3688439234.bin
+#	deleted:    CastleGuardGreyBlock 4.13/Saved/AutoScreenshot.png
+#	deleted:    CastleGuardGreyBlock 4.13/Saved/Autosaves/PackageRestoreData.json
+#	deleted:    CastleGuardGreyBlock 4.13/Saved/Backup/CastleGuardLevelSave06_2017-02-16-12-12-39.umap
+#	deleted:    CastleGuardGreyBlock 4.13/Saved/Backup/CastleGuardLevelSave06_2017-02-16-12-27-07.umap
+#	deleted:    CastleGuardGreyBlock 4.13/Saved/Config/Windows/Compat.ini
+#	deleted:    CastleGuardGreyBlock 4.13/Saved/Config/Windows/DeviceProfiles.ini
+#	deleted:    CastleGuardGreyBlock 4.13/Saved/Config/Windows/Editor.ini
+#	deleted:    CastleGuardGreyBlock 4.13/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+#	deleted:    CastleGuardGreyBlock 4.13/Saved/Config/Windows/EditorUserSettings.ini
+#	deleted:    CastleGuardGreyBlock 4.13/Saved/Config/Windows/Engine.ini
+#	deleted:    CastleGuardGreyBlock 4.13/Saved/Config/Windows/Game.ini
+#	deleted:    CastleGuardGreyBlock 4.13/Saved/Config/Windows/GameUserSettings.ini
+#	deleted:    CastleGuardGreyBlock 4.13/Saved/Config/Windows/GameplayTags.ini
+#	deleted:    CastleGuardGreyBlock 4.13/Saved/Config/Windows/Hardware.ini
+#	deleted:    CastleGuardGreyBlock 4.13/Saved/Config/Windows/Input.ini
+#	deleted:    CastleGuardGreyBlock 4.13/Saved/Config/Windows/InternationalizationExport.ini
+#	deleted:    CastleGuardGreyBlock 4.13/Saved/Config/Windows/Lightmass.ini
+#	deleted:    CastleGuardGreyBlock 4.13/Saved/Config/Windows/LocalizationServiceSettings.ini
+#	deleted:    CastleGuardGreyBlock 4.13/Saved/Config/Windows/Scalability.ini
+#	deleted:    CastleGuardGreyBlock 4.13/Saved/Config/Windows/SourceControlSettings.ini
+#	deleted:    CastleGuardGreyBlock 4.13/Saved/Config/Windows/TemplateDefs.ini
+#	deleted:    CastleGuardGreyBlock 4.13/Saved/Config/Windows/TranslationPickerSettings.ini
+#	deleted:    CastleGuardGreyBlock 4.13/Saved/Logs/CastleGuardGreyBlock.log
+#	modified:   CastleGuardGreyBlock/CastleGuardGreyBlock.uproject
+#	renamed:    CastleGuardGreyBlock 4.13/Content/FirstPersonBP/Maps/CastleGuardLevelSave06.umap -> CastleGuardGreyBlock/Content/FirstPersonBP/Maps/CastleGuardLevelSave06.umap
+#	renamed:    CastleGuardGreyBlock 4.13/Saved/Autosaves/Game/FirstPersonBP/Maps/CastleGuardLevelSave06_Auto2.umap -> CastleGuardGreyBlock/Content/FirstPersonBP/Maps/CastleGuardLevelSave07.umap
+#	renamed:    CastleGuardGreyBlock 4.13/Saved/Backup/CastleGuardLevelSave07_2017-02-16-12-27-46.umap -> CastleGuardGreyBlock/Content/FirstPersonBP/Maps/CastleGuardLevelSave08.umap
+#	renamed:    CastleGuardGreyBlock 4.13/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap -> CastleGuardGreyBlock/Content/FirstPersonBP/Maps/CastleGuardLevelSave09.umap
+#	renamed:    CastleGuardGreyBlock/Saved/Backup/FirstPersonExampleMap_2017-01-30-19-01-33.umap -> CastleGuardGreyBlock/Content/FirstPersonBP/Maps/CastleGuardLevelSave10.umap
+#	new file:   CastleGuardGreyBlock/Content/FirstPersonBP/Maps/CastleGuardLevelSave11.umap
+#	renamed:    CastleGuardGreyBlock 4.13/Content/StarterContent/Architecture/Floor_400x400.uasset -> CastleGuardGreyBlock/Content/StarterContent/Architecture/Floor_400x400.uasset
+#	renamed:    CastleGuardGreyBlock 4.13/Intermediate/CachedAssetRegistry.bin -> CastleGuardGreyBlock/Intermediate/CachedAssetRegistry.bin
+#	modified:   CastleGuardGreyBlock/Saved/AutoScreenshot.png
+#	deleted:    CastleGuardGreyBlock/Saved/Autosaves/Game/FirstPersonBP/Maps/CastleGuardLevelSave01_Auto1.umap
+#	deleted:    CastleGuardGreyBlock/Saved/Autosaves/Game/FirstPersonBP/Maps/CastleGuardLevelSave02_Auto2.umap
+#	deleted:    CastleGuardGreyBlock/Saved/Autosaves/Game/FirstPersonBP/Maps/CastleGuardLevelSave04_Auto1.umap
+#	deleted:    CastleGuardGreyBlock/Saved/Autosaves/Game/FirstPersonBP/Maps/CastleGuardLevelSave05_Auto2.umap
+#	renamed:    CastleGuardGreyBlock 4.13/Content/FirstPersonBP/Maps/CastleGuardLevelSave05.umap -> CastleGuardGreyBlock/Saved/Autosaves/Game/FirstPersonBP/Maps/CastleGuardLevelSave09_Auto1.umap
+#	new file:   CastleGuardGreyBlock/Saved/Autosaves/Game/FirstPersonBP/Maps/CastleGuardLevelSave10_Auto2.umap
+#	deleted:    CastleGuardGreyBlock/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap
+#	deleted:    CastleGuardGreyBlock/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap
+#	deleted:    CastleGuardGreyBlock/Saved/Backup/CastleGuardLevelSave01_2017-01-30-19-46-34.umap
+#	deleted:    CastleGuardGreyBlock/Saved/Backup/CastleGuardLevelSave01_2017-01-30-20-01-16.umap
+#	deleted:    CastleGuardGreyBlock/Saved/Backup/CastleGuardLevelSave02_2017-01-30-20-11-22.umap
+#	deleted:    CastleGuardGreyBlock/Saved/Backup/CastleGuardLevelSave03_2017-01-31-01-48-32.umap
+#	deleted:    CastleGuardGreyBlock/Saved/Backup/CastleGuardLevelSave04_2017-01-31-06-59-01.umap
+#	deleted:    CastleGuardGreyBlock/Saved/Backup/CastleGuardLevelSave05_2017-01-31-07-18-56.umap
+#	deleted:    CastleGuardGreyBlock/Saved/Backup/CastleGuardLevelSave05_2017-01-31-07-59-53.umap
+#	renamed:    CastleGuardGreyBlock 4.13/Content/FirstPersonBP/Maps/CastleGuardLevelSave07.umap -> CastleGuardGreyBlock/Saved/Backup/CastleGuardLevelSave07_2017-02-16-15-21-58.umap
+#	renamed:    CastleGuardGreyBlock 4.13/Saved/Autosaves/Game/FirstPersonBP/Maps/CastleGuardLevelSave06_Auto1.umap -> CastleGuardGreyBlock/Saved/Backup/CastleGuardLevelSave09_2017-02-16-15-45-48.umap
+#	new file:   CastleGuardGreyBlock/Saved/Backup/CastleGuardLevelSave09_2017-02-16-16-26-25.umap
+#	renamed:    CastleGuardGreyBlock/Saved/Backup/FirstPersonExampleMap_2017-01-30-19-25-27.umap -> CastleGuardGreyBlock/Saved/Backup/CastleGuardLevelSave10_2017-02-16-16-36-49.umap
+#	new file:   CastleGuardGreyBlock/Saved/Backup/CastleGuardLevelSave11_2017-02-16-16-58-14.umap
+#	deleted:    CastleGuardGreyBlock/Saved/Backup/Floor_400x400_2017-01-30-18-51-29.uasset
+#	renamed:    CastleGuardGreyBlock 4.13/Saved/Backup/Floor_400x400_2017-02-16-11-34-21.uasset -> CastleGuardGreyBlock/Saved/Backup/Floor_400x400_2017-02-16-15-13-34.uasset
+#	modified:   CastleGuardGreyBlock/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+#	modified:   CastleGuardGreyBlock/Saved/Config/Windows/Engine.ini
+#	modified:   CastleGuardGreyBlock/Saved/Config/Windows/GameUserSettings.ini
+#	renamed:    CastleGuardGreyBlock 4.13/Saved/Config/WorldState/2329284250.json -> CastleGuardGreyBlock/Saved/Config/WorldState/1680920185.json
+#	renamed:    CastleGuardGreyBlock 4.13/Saved/Config/WorldState/2479701979.json -> CastleGuardGreyBlock/Saved/Config/WorldState/2100035384.json
+#	renamed:    CastleGuardGreyBlock/Saved/Config/WorldState/2717605209.json -> CastleGuardGreyBlock/Saved/Config/WorldState/223220309.json
+#	renamed:    CastleGuardGreyBlock/Saved/Config/WorldState/3101715480.json -> CastleGuardGreyBlock/Saved/Config/WorldState/2479701979.json
+#	deleted:    CastleGuardGreyBlock/Saved/Config/WorldState/2733464406.json
+#	deleted:    CastleGuardGreyBlock/Saved/Config/WorldState/3315046493.json
+#	deleted:    CastleGuardGreyBlock/Saved/Config/WorldState/4005219230.json
+#	deleted:    CastleGuardGreyBlock/Saved/Config/WorldState/4154587871.json
+#	deleted:    CastleGuardGreyBlock/Saved/Logs/CastleGuardGreyBlock-backup-2017.02.09-13.17.41.log
+#	deleted:    CastleGuardGreyBlock/Saved/Logs/CastleGuardGreyBlock-backup-2017.02.09-13.22.54.log
+#	new file:   CastleGuardGreyBlock/Saved/Logs/CastleGuardGreyBlock-backup-2017.02.16-15.15.26.log
+#	modified:   CastleGuardGreyBlock/Saved/Logs/CastleGuardGreyBlock.log
+#	renamed:    CastleGuardGreyBlock 4.13/Saved/Logs/UE4CC-Windows-B06590F44CE2055F77A17F8EA8210A76/CrashReportClient.ini -> CastleGuardGreyBlock/Saved/Logs/UE4CC-Windows-0D3884DA4B9599F845EF9B8FD4F75D9F/CrashReportClient.ini
+#	renamed:    CastleGuardGreyBlock/Saved/Logs/UE4CC-Windows-27922ADF4F637E69A2B04BBA30489123/CrashReportClient.ini -> CastleGuardGreyBlock/Saved/Logs/UE4CC-Windows-579C659B41B69229EF569F937A58D47B/CrashReportClient.ini
+#	deleted:    CastleGuardGreyBlock/Saved/Logs/UE4CC-Windows-911D05F94D230C6CF05E7A8E2BAE735B/CrashReportClient.ini
+#
+
