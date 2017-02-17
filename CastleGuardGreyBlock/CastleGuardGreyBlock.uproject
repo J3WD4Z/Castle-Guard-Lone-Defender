@@ -1,6 +1,10 @@
 {
 	"FileVersion": 3,
+<<<<<<< HEAD
 	"EngineAssociation": "{517AF29C-4408-B118-06D4-72B791E23CC5}",
+=======
+	"EngineAssociation": "{47D96B1F-498F-1DC2-4BAC-BFB10B038C6F}",
+>>>>>>> 2a44703d7157109d043cc1f7a4fa58ea6d82b274
 	"Category": "",
 	"Description": "",
 	"Plugins": [
