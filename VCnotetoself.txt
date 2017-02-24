@@ -8,3 +8,8 @@ Choi's notes to self
 
 - Firing System: put hand to center of bow, press trigger to spawn arrow, then draw and release trigger to fire arrow.
 
+- In Variables panel, you can select image on left side to decide Pin Type. This can be helpful if a reference does not fit.
+
+- Some individual files may be too big for regular git to push properly. Try installing git lfs in that case. Current files that have caused this problem are: 
+	. Oversized .log files, probably in BowsNArrows\Saved\Logs
+
